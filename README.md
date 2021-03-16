@@ -1,5 +1,5 @@
 # SnakeGame
 typescript
 
-# yarn
-# yarn start
+yarn
+yarn start
